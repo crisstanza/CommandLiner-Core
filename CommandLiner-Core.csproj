@@ -1,11 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace></RootNamespace>
-    <Version>0.2.0.0</Version>
-    <Authors>Cris Stanza</Authors>
-    <Company>Cris Stanza</Company>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<RootNamespace></RootNamespace>
+		<Authors>Cris Stanza</Authors>
+		<Version>0.3.0.0</Version>
+		<Company />
+		<Description>Command line arguments parser for C# (.NET Core).</Description>
+	</PropertyGroup>
 
 </Project>
