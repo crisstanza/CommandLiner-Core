@@ -4,8 +4,8 @@
 		<TargetFramework>netcoreapp7.0</TargetFramework>
 		<RootNamespace></RootNamespace>
 		<Authors>Cris Stanza</Authors>
-		<Version>0.7.0.0</Version>
-		<Company />
+		<Company>Cris Stanza</Company>
+		<Version>0.7.0.1</Version>
 		<Description>Command line arguments parser for C# (.NET Core).</Description>
 	</PropertyGroup>
 
